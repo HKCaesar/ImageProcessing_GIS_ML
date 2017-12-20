@@ -2,7 +2,7 @@ import numpy as np
 from osgeo import gdal
 
 
-# A Creating Random colors.
+# Color shades for the output.
 Output_Shades = ["#000000", "#FFFF00", "#1CE6FF", "#FF34FF", "#FF4A46", "#008941"]
 
 
